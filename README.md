@@ -1,4 +1,3 @@
-# Task-5-Weather-Application
 This weather application allows users to get real-time weather information using data sourced from Weather.org's API. With a simple and intuitive interface, users can input their location and instantly see weather details, such as temperature, humidity, wind speed, and forecast for the upcoming days.
 
 Features:
